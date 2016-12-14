@@ -1,4 +1,18 @@
 {
+    "name": "katsew/checkpoint-php",
+    "type": "library",
+    "description": "Create whitelist and blacklist for the url route.",
+    "keywords": ["validate", "routing"],
+    "homepage": "https://github.com/katsew/checkpoint-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yu Kato",
+            "email": "y.katsew@gmail.com",
+            "homepage": "http://katsew.github.io",
+            "role": "Developer"
+        }
+    ],
     "require-dev" : {
         "phpunit/phpunit": "^5.5"
     }
